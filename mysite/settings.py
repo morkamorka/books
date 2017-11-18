@@ -25,7 +25,7 @@ SECRET_KEY = 'gml_$!#hd0qgj^l#esvx$7kn77^@h_jf!joz)jc1(lvlamro*)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["127.0.0.1"]
+ALLOWED_HOSTS = ["127.0.0.1", "morkamorka.pythonanywhere.com"]
 
 
 # Application definition
